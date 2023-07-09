@@ -1,0 +1,107 @@
+[
+  {
+    "op": "add",
+    "path": "/attributesByType/*-backpack/stacks/-",
+    "value": {
+      "type": "item",
+      "code": "drygrass",
+      "quantity": {
+        "avg": 15,
+        "var": 8
+      },
+      "chance": 3000
+    },
+    "file": "game:itemtypes/meta/stackrandomizer.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributesByType/*-backpack/stacks/-",
+    "value": {
+      "type": "item",
+      "code": "flaxfibers",
+      "quantity": {
+        "avg": 2,
+        "var": 1
+      },
+      "chance": 3000
+    },
+    "file": "game:itemtypes/meta/stackrandomizer.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributesByType/*-backpack/stacks/-",
+    "value": {
+      "type": "item",
+      "code": "cattailtops",
+      "quantity": {
+        "avg": 10,
+        "var": 3
+      },
+      "chance": 3000
+    },
+    "file": "game:itemtypes/meta/stackrandomizer.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributesByType/*-backpack/stacks/-",
+    "value": {
+      "type": "item",
+      "code": "clay-blue",
+      "quantity": {
+        "avg": 15,
+        "var": 10
+      },
+      "chance": 3000
+    },
+    "file": "game:itemtypes/meta/stackrandomizer.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributesByType/*-backpack/stacks/-",
+    "value": {
+      "type": "item",
+      "code": "clay-fire",
+      "quantity": {
+        "avg": 15,
+        "var": 10
+      },
+      "chance": 3000
+    },
+    "file": "game:itemtypes/meta/stackrandomizer.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributesByType/*-backpack/stacks/-",
+    "value": {
+      "type": "item",
+      "code": "firewood",
+      "quantity": {
+        "avg": 8,
+        "var": 6
+      },
+      "chance": 3000
+    },
+    "file": "game:itemtypes/meta/stackrandomizer.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributesByType/*-backpack/stacks/-",
+    "value": {
+      "type": "item",
+      "code": "rot",
+      "quantity": {
+        "avg": 20,
+        "var": 15
+      },
+      "chance": 3000
+    },
+    "file": "game:itemtypes/meta/stackrandomizer.json",
+    "side": "Server"
+  }
+]
