@@ -1,0 +1,12 @@
+{
+  "type": "content",
+  "modid": "betterruinslootchanges",
+  "name": "BetterRuinsLootChanges",
+  "authors": ["NiclAss"],
+  "description": "BetterRuinsLootChanges",
+  "version": "0.0.1",
+  "dependencies": {
+    "game": "",
+    "betterruins": ""
+  }
+}
