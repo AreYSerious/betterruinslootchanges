@@ -3,10 +3,11 @@
   "modid": "betterruinslootchanges",
   "name": "BetterRuinsLootChanges",
   "authors": ["NiclAss"],
-  "description": "BetterRuinsLootChanges",
+  "description": "Reduces OP loot in betterruins by 70%",
   "version": "0.0.1",
+  "requiredOnClient": false,
+  "requiredOnServer": true,
   "dependencies": {
-    "game": "",
-    "betterruins": ""
+    "game": ""
   }
 }
