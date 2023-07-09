@@ -12,7 +12,12 @@
       "chance": 50
     },
     "file": "game:itemtypes/meta/stackrandomizer.json",
-    "side": "Server"
+    "side": "Server",
+    "dependsOn": [
+      {
+          "modid": "betterruins"
+      }
+  ]
   },
   {
     "op": "add",
@@ -27,7 +32,12 @@
       "chance": 50
     },
     "file": "game:itemtypes/meta/stackrandomizer.json",
-    "side": "Server"
+    "side": "Server",
+    "dependsOn": [
+      {
+          "modid": "betterruins"
+      }
+  ]
   },
   {
     "op": "add",
@@ -42,7 +52,12 @@
       "chance": 50
     },
     "file": "game:itemtypes/meta/stackrandomizer.json",
-    "side": "Server"
+    "side": "Server",
+    "dependsOn": [
+      {
+          "modid": "betterruins"
+      }
+  ]
   },
   {
     "op": "add",
@@ -57,7 +72,12 @@
       "chance": 50
     },
     "file": "game:itemtypes/meta/stackrandomizer.json",
-    "side": "Server"
+    "side": "Server",
+    "dependsOn": [
+      {
+          "modid": "betterruins"
+      }
+  ]
   },
   {
     "op": "add",
@@ -72,7 +92,12 @@
       "chance": 50
     },
     "file": "game:itemtypes/meta/stackrandomizer.json",
-    "side": "Server"
+    "side": "Server",
+    "dependsOn": [
+      {
+          "modid": "betterruins"
+      }
+  ]
   },
   {
     "op": "add",
@@ -87,7 +112,12 @@
       "chance": 50
     },
     "file": "game:itemtypes/meta/stackrandomizer.json",
-    "side": "Server"
+    "side": "Server",
+    "dependsOn": [
+      {
+          "modid": "betterruins"
+      }
+  ]
   },
   {
     "op": "add",
@@ -102,6 +132,11 @@
       "chance": 50
     },
     "file": "game:itemtypes/meta/stackrandomizer.json",
-    "side": "Server"
+    "side": "Server",
+    "dependsOn": [
+      {
+          "modid": "betterruins"
+      }
+  ]
   }
 ]
