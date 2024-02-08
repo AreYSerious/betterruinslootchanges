@@ -4,10 +4,10 @@
   "name": "BetterRuinsLootChanges",
   "authors": ["NiclAss"],
   "description": "Reduces OP loot in betterruins by 70%",
-  "version": "0.0.1",
-  "requiredOnClient": false,
-  "requiredOnServer": true,
+  "version": "0.0.3",
+  "side": "Server",
   "dependencies": {
-    "game": ""
+    "betterruins": "",
+    "game": "1.19.0"
   }
 }
