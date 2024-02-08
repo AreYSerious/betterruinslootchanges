@@ -11,7 +11,7 @@
       },
       "chance": 3000
     },
-    "file": "game:itemtypes/meta/stackrandomizer.json",
+    "file": "game:itemtypes/meta/stackrandomizer-betterruins.json",
     "side": "Server",
     "dependsOn": [
       {
@@ -31,7 +31,7 @@
       },
       "chance": 3000
     },
-    "file": "game:itemtypes/meta/stackrandomizer.json",
+    "file": "game:itemtypes/meta/stackrandomizer-betterruins.json",
     "side": "Server",
     "dependsOn": [
       {
@@ -51,7 +51,7 @@
       },
       "chance": 3000
     },
-    "file": "game:itemtypes/meta/stackrandomizer.json",
+    "file": "game:itemtypes/meta/stackrandomizer-betterruins.json",
     "side": "Server",
     "dependsOn": [
       {
@@ -71,7 +71,7 @@
       },
       "chance": 3000
     },
-    "file": "game:itemtypes/meta/stackrandomizer.json",
+    "file": "game:itemtypes/meta/stackrandomizer-betterruins.json",
     "side": "Server",
     "dependsOn": [
       {
@@ -91,7 +91,7 @@
       },
       "chance": 3000
     },
-    "file": "game:itemtypes/meta/stackrandomizer.json",
+    "file": "game:itemtypes/meta/stackrandomizer-betterruins.json",
     "side": "Server",
     "dependsOn": [
       {
@@ -111,7 +111,7 @@
       },
       "chance": 3000
     },
-    "file": "game:itemtypes/meta/stackrandomizer.json",
+    "file": "game:itemtypes/meta/stackrandomizer-betterruins.json",
     "side": "Server",
     "dependsOn": [
       {
@@ -131,7 +131,7 @@
       },
       "chance": 3000
     },
-    "file": "game:itemtypes/meta/stackrandomizer.json",
+    "file": "game:itemtypes/meta/stackrandomizer-betterruins.json",
     "side": "Server",
     "dependsOn": [
       {

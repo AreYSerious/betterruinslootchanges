@@ -1,7 +1,7 @@
 [
   {
     "op": "add",
-    "path": "/attributesByType/*-clayproducts/stacks/-",
+    "path": "/attributesByType/*-gear/stacks/-",
     "value": {
       "type": "item",
       "code": "drygrass",
@@ -9,9 +9,9 @@
         "avg": 15,
         "var": 8
       },
-      "chance": 400
+      "chance": 110
     },
-    "file": "game:itemtypes/meta/stackrandomizer-betterruins.json",
+    "file": "game:itemtypes/meta/stackrandomizer.json",
     "side": "Server",
     "dependsOn": [
       {
@@ -21,7 +21,7 @@
   },
   {
     "op": "add",
-    "path": "/attributesByType/*-clayproducts/stacks/-",
+    "path": "/attributesByType/*-gear/stacks/-",
     "value": {
       "type": "item",
       "code": "flaxfibers",
@@ -29,9 +29,9 @@
         "avg": 2,
         "var": 1
       },
-      "chance": 400
+      "chance": 110
     },
-    "file": "game:itemtypes/meta/stackrandomizer-betterruins.json",
+    "file": "game:itemtypes/meta/stackrandomizer.json",
     "side": "Server",
     "dependsOn": [
       {
@@ -41,7 +41,7 @@
   },
   {
     "op": "add",
-    "path": "/attributesByType/*-clayproducts/stacks/-",
+    "path": "/attributesByType/*-gear/stacks/-",
     "value": {
       "type": "item",
       "code": "cattailtops",
@@ -49,9 +49,9 @@
         "avg": 10,
         "var": 3
       },
-      "chance": 400
+      "chance": 110
     },
-    "file": "game:itemtypes/meta/stackrandomizer-betterruins.json",
+    "file": "game:itemtypes/meta/stackrandomizer.json",
     "side": "Server",
     "dependsOn": [
       {
@@ -61,7 +61,7 @@
   },
   {
     "op": "add",
-    "path": "/attributesByType/*-clayproducts/stacks/-",
+    "path": "/attributesByType/*-gear/stacks/-",
     "value": {
       "type": "item",
       "code": "clay-blue",
@@ -69,9 +69,9 @@
         "avg": 15,
         "var": 10
       },
-      "chance": 400
+      "chance": 110
     },
-    "file": "game:itemtypes/meta/stackrandomizer-betterruins.json",
+    "file": "game:itemtypes/meta/stackrandomizer.json",
     "side": "Server",
     "dependsOn": [
       {
@@ -81,7 +81,7 @@
   },
   {
     "op": "add",
-    "path": "/attributesByType/*-clayproducts/stacks/-",
+    "path": "/attributesByType/*-gear/stacks/-",
     "value": {
       "type": "item",
       "code": "clay-fire",
@@ -89,9 +89,9 @@
         "avg": 15,
         "var": 10
       },
-      "chance": 400
+      "chance": 110
     },
-    "file": "game:itemtypes/meta/stackrandomizer-betterruins.json",
+    "file": "game:itemtypes/meta/stackrandomizer.json",
     "side": "Server",
     "dependsOn": [
       {
@@ -101,7 +101,7 @@
   },
   {
     "op": "add",
-    "path": "/attributesByType/*-clayproducts/stacks/-",
+    "path": "/attributesByType/*-gear/stacks/-",
     "value": {
       "type": "item",
       "code": "firewood",
@@ -109,9 +109,9 @@
         "avg": 8,
         "var": 6
       },
-      "chance": 400
+      "chance": 110
     },
-    "file": "game:itemtypes/meta/stackrandomizer-betterruins.json",
+    "file": "game:itemtypes/meta/stackrandomizer.json",
     "side": "Server",
     "dependsOn": [
       {
@@ -121,7 +121,7 @@
   },
   {
     "op": "add",
-    "path": "/attributesByType/*-clayproducts/stacks/-",
+    "path": "/attributesByType/*-gear/stacks/-",
     "value": {
       "type": "item",
       "code": "rot",
@@ -129,9 +129,9 @@
         "avg": 20,
         "var": 15
       },
-      "chance": 400
+      "chance": 110
     },
-    "file": "game:itemtypes/meta/stackrandomizer-betterruins.json",
+    "file": "game:itemtypes/meta/stackrandomizer.json",
     "side": "Server",
     "dependsOn": [
       {
